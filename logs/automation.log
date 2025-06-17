@@ -1,0 +1,16 @@
+2025-06-17 21:11:52 INFO  TC001_AccountRegistrationTest:23 - ***** starting TC001_AccountRegistrationTest ****
+2025-06-17 21:11:53 INFO  TC001_AccountRegistrationTest:27 - clicked on myAccount link
+2025-06-17 21:11:54 INFO  TC001_AccountRegistrationTest:29 - clicked on registered link
+2025-06-17 21:11:54 INFO  TC001_AccountRegistrationTest:33 - providing customer details
+2025-06-17 21:11:57 INFO  TC001_AccountRegistrationTest:45 - Validating expceted massage
+2025-06-17 21:11:57 INFO  TC001_AccountRegistrationTest:65 - ***** finished TC001_AccountRegistrationTest ****
+2025-06-17 21:12:06 INFO  TC002_LoginTest:15 - **** starting TC002_LoginTest ***
+2025-06-17 21:12:09 INFO  TC002_LoginTest:40 - **** finished TC002_LoginTest ***
+2025-06-17 21:25:38 INFO  TC001_AccountRegistrationTest:23 - ***** starting TC001_AccountRegistrationTest ****
+2025-06-17 21:25:38 INFO  TC001_AccountRegistrationTest:27 - clicked on myAccount link
+2025-06-17 21:25:40 INFO  TC001_AccountRegistrationTest:29 - clicked on registered link
+2025-06-17 21:25:40 INFO  TC001_AccountRegistrationTest:33 - providing customer details
+2025-06-17 21:25:43 INFO  TC001_AccountRegistrationTest:45 - Validating expceted massage
+2025-06-17 21:25:43 INFO  TC001_AccountRegistrationTest:65 - ***** finished TC001_AccountRegistrationTest ****
+2025-06-17 21:25:56 INFO  TC002_LoginTest:15 - **** starting TC002_LoginTest ***
+2025-06-17 21:26:00 INFO  TC002_LoginTest:40 - **** finished TC002_LoginTest ***
